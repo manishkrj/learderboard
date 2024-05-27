@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/learderboard/static/css/main.d53540a3.css",
+    "main.js": "/learderboard/static/js/main.45d3db8b.js",
+    "static/js/453.bf2ca449.chunk.js": "/learderboard/static/js/453.bf2ca449.chunk.js",
+    "static/media/navbar.png": "/learderboard/static/media/navbar.32158e4dab33cb453d87.png",
+    "index.html": "/learderboard/index.html",
+    "main.d53540a3.css.map": "/learderboard/static/css/main.d53540a3.css.map",
+    "main.45d3db8b.js.map": "/learderboard/static/js/main.45d3db8b.js.map",
+    "453.bf2ca449.chunk.js.map": "/learderboard/static/js/453.bf2ca449.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d53540a3.css",
+    "static/js/main.45d3db8b.js"
+  ]
+}
